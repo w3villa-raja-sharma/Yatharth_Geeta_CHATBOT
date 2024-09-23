@@ -25,8 +25,12 @@ Postman Hitting - Image Generation
 ![AI_CHATWOOT_4](https://github.com/user-attachments/assets/2ea4e48b-9f6c-4045-9a1e-d500040800f0)
 
 
-Postman Hitting - TexT Generation
+Postman Hitting - Text Generation
 
 ![AI_CHATBOT_7](https://github.com/user-attachments/assets/e3954423-3644-4d8d-b5e0-577b11700398)
+
+Working video:
+
+
 
 
